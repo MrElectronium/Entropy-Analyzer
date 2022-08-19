@@ -1,0 +1,10 @@
+C:\Users\HAKKI88\Desktop\project\EntropyAnalyzer\EntropyAnalyzer\bin\Debug\EntropyAnalyzer.exe.config
+C:\Users\HAKKI88\Desktop\project\EntropyAnalyzer\EntropyAnalyzer\bin\Debug\EntropyAnalyzer.exe
+C:\Users\HAKKI88\Desktop\project\EntropyAnalyzer\EntropyAnalyzer\bin\Debug\EntropyAnalyzer.pdb
+C:\Users\HAKKI88\Desktop\project\EntropyAnalyzer\EntropyAnalyzer\obj\Debug\EntropyAnalyzer.csprojAssemblyReference.cache
+C:\Users\HAKKI88\Desktop\project\EntropyAnalyzer\EntropyAnalyzer\obj\Debug\EntropyAnalyzer.Form1.resources
+C:\Users\HAKKI88\Desktop\project\EntropyAnalyzer\EntropyAnalyzer\obj\Debug\EntropyAnalyzer.Properties.Resources.resources
+C:\Users\HAKKI88\Desktop\project\EntropyAnalyzer\EntropyAnalyzer\obj\Debug\EntropyAnalyzer.csproj.GenerateResource.cache
+C:\Users\HAKKI88\Desktop\project\EntropyAnalyzer\EntropyAnalyzer\obj\Debug\EntropyAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\HAKKI88\Desktop\project\EntropyAnalyzer\EntropyAnalyzer\obj\Debug\EntropyAnalyzer.exe
+C:\Users\HAKKI88\Desktop\project\EntropyAnalyzer\EntropyAnalyzer\obj\Debug\EntropyAnalyzer.pdb
